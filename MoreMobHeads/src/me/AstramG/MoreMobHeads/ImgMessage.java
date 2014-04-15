@@ -10,9 +10,8 @@ import java.awt.image.BufferedImage;
 import java.util.HashMap;
  
 /**
- * User: bobacadodl
- * Date: 12/8/13
- * Time: 1:11 PM
+ 	ImgMessage resource created by bobacadodl! Credit for this class goes to him even though I made
+ multiple modifications.
  */
 public class ImgMessage {
     @SuppressWarnings("serial")
