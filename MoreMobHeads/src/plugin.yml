@@ -1,0 +1,8 @@
+name: MoreMobHeads
+version: 1.0
+main: me.AstramG.MoreMobHeads.MoreMobHeads
+author: AstramG
+commands:
+  mmh:
+    usage: /mmh <params>
+    description: MMH Main Command

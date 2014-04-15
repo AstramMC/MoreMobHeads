@@ -1,0 +1,10 @@
+getLoreHead: true
+headFileURL: https://dl.dropboxusercontent.com/s/xgrm440plxeli61/MoreMobHeads%20Mob%20File.txt?dl=1&token_hash=AAHNBLCTFVr-2QusoAKrZV4JAXimzuEDYX2jfRmz0GtDog
+useCloudFile: true
+Drops:
+  MobHeads:
+    Chance: 15
+    Enabled: true
+  PlayerHeads:
+    Chance: 100
+    Enabled: true
